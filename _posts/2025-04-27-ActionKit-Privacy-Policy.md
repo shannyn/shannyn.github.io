@@ -28,6 +28,8 @@
     
     - Randomly generated transaction ID (cannot be linked to your account)
 
+---
+
 ## **2. Data Sharing and Disclosure**
 
 - **We do not share data with any third parties**, including advertisers, analytics platforms, or social media.
@@ -52,11 +54,15 @@
   
   - In-app purchases require parental authorization via iOS Family Sharing.
 
+---
+
 ## **5. Changes to Privacy Policy**
 
 - If this policy is updated, we will notify you via in-app announcements or the App Store page.
 
-## 6. Contact Us
+---
+
+## **6. Contact Us**
 
 If you have any questions or suggestions regarding the Privacy Policy, please contact us at [feedback_rushtech@163.com](mailto:feedback_rushtech@163.com?subject=PrivacyPolicy).
 
