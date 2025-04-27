@@ -83,7 +83,9 @@ If you have any questions or suggestions regarding the Privacy Policy, please co
 - 当您通过Apple内购系统购买付费内容时：
   
   - **我们不会处理支付信息**：所有交易由Apple直接处理，我们无法访问您的银行卡、支付宝等敏感数据。
+  
   - **接收的匿名数据**：Apple可能向我们提供以下 **仅与交易相关的非身份信息**（用于订单验证和统计）：
+    
     - 产品标识符（如"com.example.premium"）
     
     - 交易时间和金额
