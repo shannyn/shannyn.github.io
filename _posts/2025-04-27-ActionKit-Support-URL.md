@@ -10,7 +10,7 @@ If you have any questions, Please send an email to me.
 
 Email: [feedback_rushtech@163.com](mailto:feedback_rushtech@163.com?subject=feedback)
 
----------
+---
 
 此APP提供快捷指令的拓展指令。
 
